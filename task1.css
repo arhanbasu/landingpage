@@ -1,0 +1,38 @@
+.mine1{
+	height: 500px;
+	padding: 30px 60px;
+}
+
+.mine2{
+	height: 500px;
+	background-color: grey;
+}
+
+.mine3 img{
+	height: 480px;
+	padding: 20px 480px 0px 480px;
+}
+
+.mine4 img{
+	height: 480px;
+	padding: 20px 480px 0px 480px;
+}
+
+.mine5 img{
+	height: 480px;
+	padding: 20px 480px 0px 480px;
+}
+
+.play1{
+	display: flex;
+	margin: 50px;
+	padding: 30px;
+}
+
+.play2{
+	margin: auto;
+}
+
+body{
+	background-color: #283c59;
+}
